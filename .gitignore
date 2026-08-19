@@ -1,0 +1,15 @@
+# Local datasets, checkpoints, and runtime products
+data/
+checkpoints/
+ckpt/
+outputs/
+*.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local editor/runtime state
+.pytest_cache/
+.mypy_cache/
+/prior/
