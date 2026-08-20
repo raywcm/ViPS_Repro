@@ -27,7 +27,7 @@ Unofficial lightweight reimplementation of ViPS for spatial understanding.
 conda create -n vips python=3.10
 conda activate vips
 
-ROOT=./VIPS
+ROOT=./ViPS_Repro
 PY=python3
 cd "$ROOT"
 pip install -r requirements.txt

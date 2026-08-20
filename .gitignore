@@ -13,3 +13,5 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 /prior/
+node_modules/
+.DS_Store
